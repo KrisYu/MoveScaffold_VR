@@ -20,7 +20,7 @@ Runing the server will also print your local IP address.
 
 ### Client Side 
 
-1. You need to go to [MoveClient/Assets/Scripts/InitSketch.cs](MoveClient/Assets/Scripts/InitSketch.cs) line 1414 to change the websocket to your computer's IP address.
+1. You need to go to `MoveClient/Assets/Scripts/InitSketch.cs` Line [1414](https://github.com/KrisYu/MoveScaffold_VR/blob/main/MoveClient/Assets/Scripts/InitSketch.cs#L1414) to change the websocket to your computer's IP address.
 2. Then build the apk and install on Meta Quest, once it connects the server successfully, you'll see the loaded model and you can manipulate it.
 
 
